@@ -18,10 +18,13 @@ Email to nyanlynn.razi@gmail.com
 
 ### Mobile Applications
 - [Care Together Mobile App](https://www.facebook.com/CareTogetherMyanmar/) by Za Information Technology
+
+# Web & Mobile Apps
+- [Myanmar Fight COVID-19](https://myanmarfightcovid19.com/) - Myanmar Fight COVID-19 Website by MyanmarFightCovid19 Team + UCSM ( Mandalay )
 - [Myanmar COVID-19](https://covid.devhouse.asia/) by Dev House Myanmar
 
-### Information Websites
-- [Myanmar Fight COVID-19 Website](https://myanmarfightcovid19.com/) by MyanmarFightCovid19 Team + UCSM ( Mandalay )
+### Contact Tracing
+- [Care Together Mobile App](https://www.facebook.com/CareTogetherMyanmar/) - Care Together Mobile App by Za Information Technology
 
 ### Others
 - [Join Folding@Home Myanmar Team](https://stats.foldingathome.org/team/250150) started by Ubuntu-MM

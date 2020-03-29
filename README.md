@@ -28,13 +28,10 @@ Email to nyanlynn.razi@gmail.com
 ### Contact Tracing
 - [Care Together Mobile App](https://www.facebook.com/CareTogetherMyanmar/) - Care Together Mobile App by Za Information Technology
 
-### Others
+### Folding@home
 - [Join Folding@Home Myanmar Team](https://stats.foldingathome.org/team/250150) started by Ubuntu-MM
 
-# Datasets
-- [Township and Facility Level Dataset](https://github.com/theananda/data/tree/master/covid-19)
-
-### Datasets & Maps
+### Datasets 
 - [Township and Facility Level Dataset](https://github.com/theananda/data/tree/master/covid-19) - Covid-19 Township- and Facility-Level Datasets for Myanmar by The Ananda
 
 ### Official Facebook Pages

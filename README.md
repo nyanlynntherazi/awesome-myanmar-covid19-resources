@@ -26,9 +26,12 @@ Email to nyanlynn.razi@gmail.com
 - [Care Together Mobile App](https://www.facebook.com/CareTogetherMyanmar/) - Care Together Mobile App by Za Information Technology
 
 # Data Sources
-- [Township and Facility Level Dataset](https://github.com/theananda/data/tree/master/covid-19)
+- [Township and Facility Level Dataset](https://github.com/theananda/data/tree/master/covid-19) - Covid-19 Township- and Facility-Level Datasets for Myanmar by The Ananda
 - [Township and Facility Maps](https://bit.ly/2Jlunhk) - Township and Facility Maps by Dr Thet Aung
 
+# Fact Checking
+
+# Community Groups
 
 # Contributors/Volunteers/Developers
 
@@ -37,6 +40,7 @@ Email to nyanlynn.razi@gmail.com
 - Dr Nyein Chan Ko Ko
 - Ko Sett Khaing Oo
 - Ko Nay Lin
+- Ko Chan Mrate Ko Ko
 
 ### Ananda Civic Tech Team
 - Ko Htin Kyaw Aye

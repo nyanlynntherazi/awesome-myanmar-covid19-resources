@@ -36,4 +36,5 @@ Email to nyanlynn.razi@gmail.com
 - [Ministry of Health and Sport](https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/) - Ministry of Health and Sport Facebook Page
 
 # Community Groups
+- [TRANSLATORS / COVID-19](https://docs.google.com/document/d/1XXlmZD07pxx31Xy8HI6AYBYxL_-vdCckoXO-NoX92u8/edit) - Google doc to connect volunteers/NGOs/designers to translators with different ethnic backgrounds in order to make a more inclusive communications messaging on COVID-19. (Karen Vinalay)
 

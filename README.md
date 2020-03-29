@@ -37,17 +37,3 @@ Email to nyanlynn.razi@gmail.com
 
 # Community Groups
 
-# Contributors/Volunteers/Developers
-
-## B For Tech Team
-- Dr Thet Aung
-- Dr Nyein Chan Ko Ko
-- Ko Sett Khaing Oo
-- Ko Nay Lin
-- Ko Chan Mrate Ko Ko
-
-## Ananda Civic Tech Team
-- Ko Htin Kyaw Aye
-- Li Jia Li 
-- Nyan Lynn Myint
-

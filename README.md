@@ -7,9 +7,10 @@ Email to nyanlynn.razi@gmail.com
 
 # Application & Chatbot
 
-### Dashboards
- - [MOHS Official Dashboard](https://doph.maps.arcgis.com/apps/opsdashboard/index.html#/f8fb4ccc3d2d42c7ab0590dbb3fc26b8) - Coronavirus Disease 2019 (COVID-19) Surveillance Dashboard (Myanmar)
+### Dashboards and Maps
+- [MOHS Official Dashboard](https://doph.maps.arcgis.com/apps/opsdashboard/index.html#/f8fb4ccc3d2d42c7ab0590dbb3fc26b8) - Coronavirus Disease 2019 (COVID-19) Surveillance Dashboard (Myanmar)
 - [Covid-19 Dashboard](https://bit.ly/covidmyanmar) - Covid-19 Dashboard By Dr Nyein Chan Ko Ko
+- [Township and Facility Maps](https://bit.ly/2Jlunhk) - Township and Facility Maps by Dr Thet Aung
 - [Covid-19 Dashboard](https://www.myanmardatatada.com/covid-19-dashboard.html) - Covid-19 Dashboard by Phandeeyar (Datatada Program)
 - [Myanmar Surveillance Report](https://datastudio.google.com/u/0/reporting/01f1eab4-e77b-4742-93e8-fe5d334319ac/page/SenHB) - Myanmar Surveillance Report by Ko Kyaw Myint Oo
 - [Migrant workers Interactive Dashboard](https://public.tableau.com/profile/myanmar.geoinfomatic.society#!/vizhome/MigrantWorkersbyTownship/MainDashboard) - Migrant workers Interactive Dashboard by Ko Kyaw Naing Win
@@ -27,15 +28,17 @@ Email to nyanlynn.razi@gmail.com
 ### Contact Tracing
 - [Care Together Mobile App](https://www.facebook.com/CareTogetherMyanmar/) - Care Together Mobile App by Za Information Technology
 
-# Data Sources
+### Others
+- [Join Folding@Home Myanmar Team](https://stats.foldingathome.org/team/250150) started by Ubuntu-MM
+
+# Datasets
+- [Township and Facility Level Dataset](https://github.com/theananda/data/tree/master/covid-19)
 
 ### Datasets & Maps
 - [Township and Facility Level Dataset](https://github.com/theananda/data/tree/master/covid-19) - Covid-19 Township- and Facility-Level Datasets for Myanmar by The Ananda
-- [Township and Facility Maps](https://bit.ly/2Jlunhk) - Township and Facility Maps by Dr Thet Aung
 
 ### Official Facebook Pages
 - [Ministry of Health and Sport](https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/) - Ministry of Health and Sport Facebook Page
-
 
 # Community Groups
 
@@ -50,6 +53,6 @@ Email to nyanlynn.razi@gmail.com
 
 ### Ananda Civic Tech Team
 - Ko Htin Kyaw Aye
-- Li Jiali (Dragon Virus)
-
+- Li Jia Li 
+- Nyan Lynn Myint
 

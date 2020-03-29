@@ -17,6 +17,7 @@ Email to nyanlynn.razi@gmail.com
 - [Corona Help MM](https://www.messenger.com/t/CoronaHelpMM) - Corona Help Chatbot by KaungThant Lwin, Nay Lin Aung
 - [Dr.ThutaChatbot](https://www.facebook.com/Dr.ThutaChatbot/) - Dr.ThutaChatbot by Phandeeyar
 - [Corona Virus Chatbot](m.me/coronavirusalice)
+- [Covid-19 Updates For Myanmar](m.me/covid19updatesmm)
 
 ## Web
 - [Myanmar Fight COVID-19](https://myanmarfightcovid19.com/) - Myanmar Fight COVID-19 Website by MyanmarFightCovid19 Team + UCSM ( Mandalay )
@@ -44,8 +45,9 @@ Covid-19 Android App by JOY Mobile Mogok (Ko Nay Shein Oo)
 - [Covid 19 Myanmar Surveillance Dataset](https://docs.google.com/spreadsheets/d/1-Csmn_rXTQvnkJR8tnFkQEyKBnhq8fz-YxyHidhONiI/edit#gid=0) -Covid-19 Myanmar Surveillance Dataset prepared by Dr Nyein Chan Ko Ko and volunteers 
 - [Covid-19 Myanmar ,Hospital Supplies allocation](https://docs.google.com/spreadsheets/d/1Ue2LUm8NfO0IgRxifabOtYH_9FfzpEFZ5i14cXUUTAE/edit?usp=drive_web&ouid=105998359122323375339) 
 
-## Official Facebook Pages
+## Official Facebook Pages and Social Media Tools
 - [Ministry of Health and Sport](https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/) - Ministry of Health and Sport Facebook Page
+- [Crowdtangle Board of the Official Facebook Pages](https://apps.crowdtangle.com/myanmarcovid19/boards/myanmarcovid-19) - Crowdtangle Board of the Official government, media and factchecking Facebook Pages including MoHS, CDC, MoFA, Myanmar Times, Irrawaddy, Think Before You Trust etc,.
 
 # Community Groups
 - [TRANSLATORS / COVID-19](https://docs.google.com/document/d/1XXlmZD07pxx31Xy8HI6AYBYxL_-vdCckoXO-NoX92u8/edit) - Google doc to connect volunteers/NGOs/designers to translators with different ethnic backgrounds in order to make a more inclusive communications messaging on COVID-19. (Karen Vinalay)

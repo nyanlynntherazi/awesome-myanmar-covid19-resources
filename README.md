@@ -1,7 +1,7 @@
 # awesome-myanmar-covid19-resources
 A curated list for Myanmar against COVID-19
 How to add more links, translation, edit/update, or suggestions.
-fork the repo, then create pull request, or
+fork the repo, then create pull request, update the data and put your name in the contributor list, or
 Create an issue in github, or
 Email to nyanlynn.razi@gmail.com
 
@@ -10,12 +10,18 @@ Email to nyanlynn.razi@gmail.com
 ### Dashboards
  - [MOHS Official Dashboard](https://doph.maps.arcgis.com/apps/opsdashboard/index.html#/f8fb4ccc3d2d42c7ab0590dbb3fc26b8) - Coronavirus Disease 2019 (COVID-19) Surveillance Dashboard (Myanmar)
 - [Covid-19 Dashboard](https://bit.ly/covidmyanmar) - Covid-19 Dashboard By Dr Nyein Chan Ko Ko
+- [Myanmar Surveillance Report](https://datastudio.google.com/u/0/reporting/01f1eab4-e77b-4742-93e8-fe5d334319ac/page/SenHB) - Myanmar Surveillance Report by Ko Kyaw Myint Oo
 
 ### Chatbots
 - [Corona Help MM](https://www.messenger.com/t/CoronaHelpMM) - Corona Help Chatbot by KaungThant Lwin, Nay Lin Aung
 - [Dr.ThutaChatbot](https://www.facebook.com/Dr.ThutaChatbot/) - Dr.ThutaChatbot by Phandeeyar
+- [Corona Virus Chatbot](m.me/coronavirusalice)
+
 # Web & Mobile Apps
 - [Myanmar Fight COVID-19](https://myanmarfightcovid19.com/) - Myanmar Fight COVID-19 Website by MyanmarFightCovid19 Team + UCSM ( Mandalay )
+- [Myanmar Covid-19](https://covid.devhouse.asia/) - Myanmar Covid-19 by Devhouse (Ko Myat Min Soe)
+- [Myanmar Covid-19 Android App](https://devhouse.asia/covid19.apk) Myanmar Covid-19 Android App by Devhouse (Ko Myat Min Soe)
+
 ### Contact Tracing
 - [Care Together Mobile App](https://www.facebook.com/CareTogetherMyanmar/) - Care Together Mobile App by Za Information Technology
 
@@ -25,3 +31,15 @@ Email to nyanlynn.razi@gmail.com
 
 
 # Contributors/Volunteers/Developers
+
+### B For Tech Team
+- Dr Thet Aung
+- Dr Nyein Chan Ko Ko
+- Ko Sett Khaing Oo
+- Ko Nay Lin
+
+### Ananda Civic Tech Team
+- Ko Htin Kyaw Aye
+- Li Jiali (Dragon Virus)
+
+

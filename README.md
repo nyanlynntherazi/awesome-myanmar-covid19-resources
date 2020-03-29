@@ -15,7 +15,7 @@ Email to nyanlynn.razi@gmail.com
 - [Hospitals and Covid Patients Interactive Map](https://biglink.to/CV19InterMAP) - Hospitals and Covid Patients Interactive Map by Ko Wai Yan Min Khant
 
 ## Chatbots
-- [Corona Help MM](https://www.messenger.com/t/CoronaHelpMM) - Corona Help Chatbot by KaungThant Lwin, Nay Lin Aung
+- [Corona Help MM](https://www.messenger.com/t/CoronaHelpMM) - Corona Help Chatbot by Ko KaungThant Lwin, Ko Nay Lin Aung
 - [Dr.ThutaChatbot](https://www.facebook.com/Dr.ThutaChatbot/) - Dr.ThutaChatbot by Phandeeyar
 - [Corona Virus Chatbot](m.me/coronavirusalice)
 - [Covid-19 Updates For Myanmar](m.me/covid19updatesmm)

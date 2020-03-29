@@ -8,7 +8,7 @@ Email to nyanlynn.razi@gmail.com
 ## Dashboards and Maps
 - [MOHS Official Dashboard](https://doph.maps.arcgis.com/apps/opsdashboard/index.html#/f8fb4ccc3d2d42c7ab0590dbb3fc26b8) - Coronavirus Disease 2019 (COVID-19) Surveillance Dashboard (Myanmar)
 - [Covid-19 Dashboard](https://bit.ly/covidmyanmar) - Covid-19 Dashboard By Dr Nyein Chan Ko Ko
-- [Township and Facility Maps](https://bit.ly/2Jlunhk) - Township and Facility Maps by Dr Thet Aung
+- [Township and Facility Maps](https://bit.ly/2Jlunhk) - Township and Facility Maps by Ko Thet Aung
 - [Covid-19 Dashboard](https://www.myanmardatatada.com/covid-19-dashboard.html) - Covid-19 Dashboard by Phandeeyar (Datatada Program)
 - [Myanmar Surveillance Report](https://datastudio.google.com/u/0/reporting/01f1eab4-e77b-4742-93e8-fe5d334319ac/page/SenHB) - Myanmar Surveillance Report by Ko Kyaw Myint Oo
 - [Migrant workers Interactive Dashboard](https://public.tableau.com/profile/myanmar.geoinfomatic.society#!/vizhome/MigrantWorkersbyTownship/MainDashboard) - Migrant workers Interactive Dashboard by Ko Kyaw Naing Win

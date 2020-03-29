@@ -13,7 +13,7 @@ Email to nyanlynn.razi@gmail.com
 
 ### Chatbots
 - [Corona Help MM](https://www.messenger.com/t/CoronaHelpMM) - Corona Help Chatbot by KaungThant Lwin, Nay Lin Aung
-- [Dr.ThutaChatbot] (https://www.facebook.com/Dr.ThutaChatbot/) - Dr.ThutaChatbot by Phandeeyar
+- [Dr.ThutaChatbot](https://www.facebook.com/Dr.ThutaChatbot/) - Dr.ThutaChatbot by Phandeeyar
 # Web & Mobile Apps
 - [Myanmar Fight COVID-19](https://myanmarfightcovid19.com/) - Myanmar Fight COVID-19 Website by MyanmarFightCovid19 Team + UCSM ( Mandalay )
 ### Contact Tracing

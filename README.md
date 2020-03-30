@@ -51,7 +51,7 @@ Covid-19 Android App by JOY Mobile Mogok (Ko Nay Shein Oo)
 - [Ministry of Health and Sport](https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/) - Ministry of Health and Sport Facebook Page
 - [Crowdtangle Board of the Official Facebook Pages](https://apps.crowdtangle.com/myanmarcovid19/boards/myanmarcovid-19) - Crowdtangle Board of the Official government, media and factchecking Facebook Pages including MoHS, CDC, MoFA, Myanmar Times, Irrawaddy, Think Before You Trust etc,.
 ## Contact Lists
-- [Covid Response Clusters Contact List] (https://docs.google.com/spreadsheets/d/1UmXfnox_8M11QBIKuReZlKnN1ppI9bWsYc1RLXNM7jg/edit#gid=698450723) - Contact List of Covid Response Clusters including government committiees, CSO/CBOs, health clusters (Maung Ne Lynn Aung and Volunteers)
+- [Covid Response Clusters Contact List](https://docs.google.com/spreadsheets/d/1UmXfnox_8M11QBIKuReZlKnN1ppI9bWsYc1RLXNM7jg/edit#gid=698450723) - Contact List of Covid Response Clusters including government committiees, CSO/CBOs, health clusters (Maung Ne Lynn Aung and Volunteers)
 
 ## Community Groups
 - [TRANSLATORS / COVID-19](https://docs.google.com/document/d/1XXlmZD07pxx31Xy8HI6AYBYxL_-vdCckoXO-NoX92u8/edit) - Google doc to connect volunteers/NGOs/designers to translators with different ethnic backgrounds in order to make a more inclusive communications messaging on COVID-19. (Karen Vinalay)

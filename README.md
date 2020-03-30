@@ -42,10 +42,11 @@ Covid-19 Android App by JOY Mobile Mogok (Ko Nay Shein Oo)
 ## Folding@home
 - [Join Folding@Home Myanmar Team](https://stats.foldingathome.org/team/250150) started by Ubuntu-MM
 
-## Datasets 
+## Datasets and Data Sources
 - [Township and Facility Level Dataset](https://github.com/theananda/data/tree/master/covid-19) - Covid-19 Township- and Facility-Level Datasets for Myanmar by The Ananda
 - [Covid 19 Myanmar Surveillance Dataset](https://docs.google.com/spreadsheets/d/1-Csmn_rXTQvnkJR8tnFkQEyKBnhq8fz-YxyHidhONiI/edit#gid=0) -Covid-19 Myanmar Surveillance Dataset prepared by Dr Nyein Chan Ko Ko and volunteers 
 - [Covid-19 Myanmar ,Hospital Supplies allocation](https://docs.google.com/spreadsheets/d/1Ue2LUm8NfO0IgRxifabOtYH_9FfzpEFZ5i14cXUUTAE/edit?usp=drive_web&ouid=105998359122323375339) 
+- International Aids: [How are partners supporting Myanmar’s COVID-19 Response](https://medium.com/@leighmitchell/how-are-partners-supporting-myanmars-covid-19-response-cda866b6c74)
 
 ## Official Facebook Pages and Social Media Tools
 - [Ministry of Health and Sport](https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/) - Ministry of Health and Sport Facebook Page

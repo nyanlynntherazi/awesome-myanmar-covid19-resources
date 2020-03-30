@@ -1,7 +1,7 @@
 # awesome-myanmar-covid19-resources
-A curated list for Myanmar against COVID-19
+A curated list for Myanmar against COVID-19.
 To add links, resources, translation, edit/update, or suggestions.
-fork the repo, then create pull request, update the data and put your name in the contributor list, or
+fork the repo, then create pull request, update the data or
 Create an issue in github, or
 Email to nyanlynn.razi@gmail.com
 

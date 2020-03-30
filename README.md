@@ -13,6 +13,7 @@ Email to nyanlynn.razi@gmail.com
 - [Myanmar Surveillance Report](https://datastudio.google.com/u/0/reporting/01f1eab4-e77b-4742-93e8-fe5d334319ac/page/SenHB) - Myanmar Surveillance Report by Ko Kyaw Myint Oo
 - [Migrant workers Interactive Dashboard](https://public.tableau.com/profile/myanmar.geoinfomatic.society#!/vizhome/MigrantWorkersbyTownship/MainDashboard) - Migrant workers Interactive Dashboard by Ko Kyaw Naing Win
 - [Hospitals and Covid Patients Interactive Map](https://biglink.to/CV19InterMAP) - Hospitals and Covid Patients Interactive Map by Ko Wai Yan Min Khant
+- [COVID-19 Control Decision Support Map](https://arcg.is/uDbuC?fbclid=IwAR3Htasi0zUraCM_XcplrmSSoETmD2PCefFz1Xkde7Hz6OQ1-orRUpzJL7g) - COVID-19 Control Decision Support Map By AGS Team
 - [COVID-19 Map](https://covid.mms-it.com/) by Ko Htet (MMS One Stop It Solutions)
 
 ## Chatbots

@@ -48,6 +48,9 @@ Covid-19 Android App by JOY Mobile Mogok (Ko Nay Shein Oo)
 - [Covid-19 Myanmar ,Hospital Supplies allocation](https://docs.google.com/spreadsheets/d/1Ue2LUm8NfO0IgRxifabOtYH_9FfzpEFZ5i14cXUUTAE/edit?usp=drive_web&ouid=105998359122323375339) 
 - International Aids: [How are partners supporting Myanmar’s COVID-19 Response](https://medium.com/@leighmitchell/how-are-partners-supporting-myanmars-covid-19-response-cda866b6c74)
 
+## Fact File
+- Real or Not's [Covid-19 Fact File](https://www.realornotmm.info/2020/01/27/coronavirus_covid-19_fact-file/)
+
 ## Official Facebook Pages and Social Media Tools
 - [Ministry of Health and Sport](https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/) - Ministry of Health and Sport Facebook Page
 - [Crowdtangle Board of the Official Facebook Pages](https://apps.crowdtangle.com/myanmarcovid19/boards/myanmarcovid-19) - Crowdtangle Board of the Official government, media and factchecking Facebook Pages including MoHS, CDC, MoFA, Myanmar Times, Irrawaddy, Think Before You Trust etc,.
@@ -61,3 +64,7 @@ Covid-19 Android App by JOY Mobile Mogok (Ko Nay Shein Oo)
 - [F&B Guidelines (Burmese and English)](https://docs.google.com/document/d/1dVjGP6gIqyiE9nAA0Og9HCm7VVr6VUtzCGGE7JPcyJQ) - Coronavirus Guide for the Food & Beverage industry (Karen Vinalay)
 
 - [IEC Material Collection](https://drive.google.com/drive/u/0/folders/18wmEM8UKakXYIPv5xAEjV8LH_H80hNJG) - Hangouts and IEC Material Collection on Corona Virus in Burmese, English and Ethnic Languages 
+
+## Dedicated Covid-19 Pages from Media
+- [MyanmarNow](https://myanmar-now.org/mm/covid-19)
+- [The Irrawaddy](https://burma.irrawaddy.com/tag/%e1%80%80%e1%80%ad%e1%80%af%e1%80%9b%e1%80%ad%e1%80%af%e1%80%94%e1%80%ac%e1%80%97%e1%80%ad%e1%80%af%e1%80%84%e1%80%ba%e1%80%b8%e1%80%9b%e1%80%95%e1%80%ba%e1%80%85%e1%80%ba)

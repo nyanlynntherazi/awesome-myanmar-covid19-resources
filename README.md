@@ -14,6 +14,7 @@ Email to nyanlynn.razi@gmail.com
 - [Migrant workers Interactive Dashboard](https://public.tableau.com/profile/myanmar.geoinfomatic.society#!/vizhome/MigrantWorkersbyTownship/MainDashboard) - Migrant workers Interactive Dashboard by Ko Kyaw Naing Win
 - [Hospitals and Covid Patients Interactive Map](https://biglink.to/CV19InterMAP) - Hospitals and Covid Patients Interactive Map by Ko Wai Yan Min Khant
 - [COVID-19 Control Decision Support Map](https://arcg.is/uDbuC?fbclid=IwAR3Htasi0zUraCM_XcplrmSSoETmD2PCefFz1Xkde7Hz6OQ1-orRUpzJL7g) - COVID-19 Control Decision Support Map By AGS Team
+- [COVID-19 Map](https://covid.mms-it.com/) by Ko Htet (MMS One Stop It Solutions)
 
 ## Chatbots
 - [Corona Help MM](https://www.messenger.com/t/CoronaHelpMM) - Corona Help Chatbot by Ko KaungThant Lwin, Ko Nay Lin Aung
@@ -51,10 +52,12 @@ Covid-19 Android App by JOY Mobile Mogok (Ko Nay Shein Oo)
 - [Ministry of Health and Sport](https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/) - Ministry of Health and Sport Facebook Page
 - [Crowdtangle Board of the Official Facebook Pages](https://apps.crowdtangle.com/myanmarcovid19/boards/myanmarcovid-19) - Crowdtangle Board of the Official government, media and factchecking Facebook Pages including MoHS, CDC, MoFA, Myanmar Times, Irrawaddy, Think Before You Trust etc,.
 ## Contact Lists
-- [Covid Response Clusters Contact List] (https://docs.google.com/spreadsheets/d/1UmXfnox_8M11QBIKuReZlKnN1ppI9bWsYc1RLXNM7jg/edit#gid=698450723) - Contact List of Covid Response Clusters including government committiees, CSO/CBOs, health clusters (Maung Ne Lynn Aung and Volunteers)
+- [Covid Response Clusters Contact List](https://docs.google.com/spreadsheets/d/1UmXfnox_8M11QBIKuReZlKnN1ppI9bWsYc1RLXNM7jg/edit#gid=698450723) - Contact List of Covid Response Clusters including government committiees, CSO/CBOs, health clusters (Maung Ne Lynn Aung and Volunteers)
 
 ## Community Groups
 - [TRANSLATORS / COVID-19](https://docs.google.com/document/d/1XXlmZD07pxx31Xy8HI6AYBYxL_-vdCckoXO-NoX92u8/edit) - Google doc to connect volunteers/NGOs/designers to translators with different ethnic backgrounds in order to make a more inclusive communications messaging on COVID-19. (Karen Vinalay)
 
 ## Guidelines, Hangouts, Documents
 - [F&B Guidelines (Burmese and English)](https://docs.google.com/document/d/1dVjGP6gIqyiE9nAA0Og9HCm7VVr6VUtzCGGE7JPcyJQ) - Coronavirus Guide for the Food & Beverage industry (Karen Vinalay)
+
+- [IEC Material Collection](https://drive.google.com/drive/u/0/folders/18wmEM8UKakXYIPv5xAEjV8LH_H80hNJG) - Hangouts and IEC Material Collection on Corona Virus in Burmese, English and Ethnic Languages 

@@ -66,5 +66,5 @@ Covid-19 Android App by JOY Mobile Mogok (Ko Nay Shein Oo)
 - [IEC Material Collection](https://drive.google.com/drive/u/0/folders/18wmEM8UKakXYIPv5xAEjV8LH_H80hNJG) - Hangouts and IEC Material Collection on Corona Virus in Burmese, English and Ethnic Languages 
 
 ## Dedicated Covid-19 Pages from Media
-- [MyanmarNow](https://myanmar-now.org/mm/covid-19)
+- [Myanmar Now](https://myanmar-now.org/mm/covid-19)
 - [The Irrawaddy](https://burma.irrawaddy.com/tag/%e1%80%80%e1%80%ad%e1%80%af%e1%80%9b%e1%80%ad%e1%80%af%e1%80%94%e1%80%ac%e1%80%97%e1%80%ad%e1%80%af%e1%80%84%e1%80%ba%e1%80%b8%e1%80%9b%e1%80%95%e1%80%ba%e1%80%85%e1%80%ba)

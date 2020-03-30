@@ -58,3 +58,5 @@ Covid-19 Android App by JOY Mobile Mogok (Ko Nay Shein Oo)
 
 ## Guidelines, Hangouts, Documents
 - [F&B Guidelines (Burmese and English)](https://docs.google.com/document/d/1dVjGP6gIqyiE9nAA0Og9HCm7VVr6VUtzCGGE7JPcyJQ) - Coronavirus Guide for the Food & Beverage industry (Karen Vinalay)
+
+- [IEC Material Collection](https://drive.google.com/drive/u/0/folders/18wmEM8UKakXYIPv5xAEjV8LH_H80hNJG) - Hangouts and IEC Material Collection on Corona Virus in Burmese, English and Ethnic Languages 

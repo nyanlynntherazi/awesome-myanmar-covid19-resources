@@ -16,6 +16,7 @@ Email to nyanlynn.razi@gmail.com
 - [COVID-19 Control Decision Support Map](https://arcg.is/uDbuC?fbclid=IwAR3Htasi0zUraCM_XcplrmSSoETmD2PCefFz1Xkde7Hz6OQ1-orRUpzJL7g) - COVID-19 Control Decision Support Map By AGS Team
 - [COVID-19 Map](https://covid.mms-it.com/) by Ko Htet (MMS One Stop It Solutions)
 - [Contact Tracing Map of the Positive Patients](https://bit.ly/3dxWUhE) - Contact Tracing Map of the Positive Patients by Ko Set Khai Oo
+[COVID-19 Crowdtangle news dashboard](https://apps.crowdtangle.com/myanmarcovid19/boards/myanmarcovid-19?fbclid=IwAR1pVPeyBtqVW5p2DWAXR8mSgt00Dj_9uiDTX7hsO6cnMY89--GXdBrkdPo) by Victoire Rio and Nyein Chan Ko Ko
 
 ## Chatbots
 - [Corona Help MM](https://www.messenger.com/t/CoronaHelpMM) - Corona Help Chatbot by Ko KaungThant Lwin, Ko Nay Lin Aung

@@ -1,4 +1,4 @@
-# [Awesome-myanmar-covid19-resources](https://nyanlynntherazi.github.io/awesome-myanmar-covid19-resources/)
+# Awesome-myanmar-covid19-resources
 A curated list for Myanmar against COVID-19.
 To add links, resources, translation, edit/update, or suggestions.
 fork the repo, then create pull request, update the data or

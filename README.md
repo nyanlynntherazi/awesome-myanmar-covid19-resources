@@ -77,6 +77,9 @@ by Dr Nyein Chan Ko Ko and Volunteers
 
 - [Recommandations from WHO](https://talenthouse-res.cloudinary.com/image/upload/v1/invites/x1ukvopj6jspstj93pvi) - Recommandations ang guidelines from WHO
 
+- [COVID-19 Hand Book (Myanmar)](https://raw.githubusercontent.com/nyanlynntherazi/awesome-myanmar-covid19-resources/master/Resources/PDF/Covid19_HB_Myanmar.pdf ) COVID-19 အဆုတ်ရောင်ရောဂါကာကွယ်ရေးလက်စွဲ ၊
+ကူမင်းဆေးတက္ကသိုလ် ၊ ယူနန်
+
 ## Dedicated Covid-19 Pages from Media
 - [Myanmar Now](https://myanmar-now.org/mm/covid-19)
 - [The Irrawaddy](https://burma.irrawaddy.com/tag/%e1%80%80%e1%80%ad%e1%80%af%e1%80%9b%e1%80%ad%e1%80%af%e1%80%94%e1%80%ac%e1%80%97%e1%80%ad%e1%80%af%e1%80%84%e1%80%ba%e1%80%b8%e1%80%9b%e1%80%95%e1%80%ba%e1%80%85%e1%80%ba)

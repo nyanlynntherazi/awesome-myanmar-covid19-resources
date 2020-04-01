@@ -8,16 +8,18 @@ Email to nyanlynn.razi@gmail.com
 ## Dashboards and Maps
 - [MOHS Official Dashboard](https://doph.maps.arcgis.com/apps/opsdashboard/index.html#/f8fb4ccc3d2d42c7ab0590dbb3fc26b8) - Coronavirus Disease 2019 (COVID-19) Surveillance Dashboard (Myanmar)
 - [Covid-19 Dashboard](https://bit.ly/covidmyanmar) - Covid-19 Dashboard By Dr Nyein Chan Ko Ko
-- [Township and Facility Maps](https://bit.ly/2Jlunhk) - Township and Facility Maps by Ko Thet Aung
 - [Covid-19 Dashboard](https://www.myanmardatatada.com/covid-19-dashboard.html) - Covid-19 Dashboard by Phandeeyar (Datatada Program)
 - [Myanmar Surveillance Report](https://datastudio.google.com/u/0/reporting/01f1eab4-e77b-4742-93e8-fe5d334319ac/page/SenHB) - Myanmar Surveillance Report by Ko Kyaw Myint Oo
 - [Migrant workers Interactive Dashboard](https://public.tableau.com/profile/myanmar.geoinfomatic.society#!/vizhome/MigrantWorkersbyTownship/MainDashboard) - Migrant workers Interactive Dashboard by Ko Kyaw Naing Win
 - [Hospitals and Covid Patients Interactive Map](https://biglink.to/CV19InterMAP) - Hospitals and Covid Patients Interactive Map by Ko Wai Yan Min Khant
 - [COVID-19 Control Decision Support Map](https://arcg.is/uDbuC?fbclid=IwAR3Htasi0zUraCM_XcplrmSSoETmD2PCefFz1Xkde7Hz6OQ1-orRUpzJL7g) - COVID-19 Control Decision Support Map By AGS Team
 - [COVID-19 Map](https://covid.mms-it.com/) by Ko Htet (MMS One Stop It Solutions)
-- [Contact Tracing Map of the Positive Patients](https://bit.ly/3dxWUhE) - Contact Tracing Map of the Positive Patients by Ko Set Khai Oo
 - [COVID-19 Crowdtangle news dashboard](https://apps.crowdtangle.com/myanmarcovid19/boards/myanmarcovid-19?fbclid=IwAR1pVPeyBtqVW5p2DWAXR8mSgt00Dj_9uiDTX7hsO6cnMY89--GXdBrkdPo) by Victoire Rio and Nyein Chan Ko Ko
-- [Contact Places of COVID-19 Patients](https://setkhaing.carto.com/builder/7df8a2d8-52d3-4d27-a1c2-5f1bea2fbe31/embed) by Ko Set Khai Oo
+
+## Maps
+- [Township and Facility Maps](https://bit.ly/2Jlunhk) - Township and Facility Maps by Ko Thet Aung
+- [Contact Tracing Map of the Positive Patients](https://bit.ly/3dxWUhE) - Contact Tracing Map of the Positive Patients by Ko Set Khai Oo
+- [Contact Places of COVID-19 Positive Patients](https://setkhaing.carto.com/builder/7df8a2d8-52d3-4d27-a1c2-5f1bea2fbe31/embed) by Ko Set Khai Oo
 
 ## Chatbots
 - [Corona Help MM](https://www.messenger.com/t/CoronaHelpMM) - Corona Help Chatbot by Ko KaungThant Lwin, Ko Nay Lin Aung

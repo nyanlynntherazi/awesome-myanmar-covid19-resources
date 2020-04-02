@@ -29,6 +29,9 @@ Email to nyanlynn.razi@gmail.com
 
 - [Hospitals and Covid Patients Interactive Map](https://biglink.to/CV19InterMAP) - Hospitals and Covid Patients Interactive Map by Ko Wai Yan Min Khant
 
+## Visualizations 
+
+- [Covid-19 Patient Relations Visualization](https://phyokyi.github.io/covid-19/COVID-19%20Relations.html) - Covid-19 Patient Relations Visualization by Ko Phyo Kyi
 
 ## Chatbots
 

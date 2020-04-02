@@ -47,6 +47,7 @@ Covid-19 Android App by JOY Mobile Mogok (Ko Nay Shein Oo)
 
 ## Contact Tracing
 - [Care Together Mobile App](https://www.facebook.com/CareTogetherMyanmar/) - Care Together Mobile App by Za Information Technology
+- [Saw Saw Pyaw Mobile App](http://sawsawpyaw.com/) - Self Quarantine Platform by Technmation Studios
 
 ## Folding@home
 - [Join Folding@Home Myanmar Team](https://stats.foldingathome.org/team/250150) started by Ubuntu-MM

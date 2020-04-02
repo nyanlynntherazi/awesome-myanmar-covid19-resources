@@ -13,39 +13,6 @@ Email to nyanlynn.razi@gmail.com
 
 ## Maps
 - [Township and Facility Maps](https://bit.ly/2Jlunhk) - Township and Facility Maps by Ko Thet Aung
-- [Contact Tracing Map of the Positive Patients](https://bit.ly/3dxWUhE) - Contact Tracing Map of the Positive Patients by Ko Set Khai Oo
-- [Contact Places of COVID-19 Positive Patients](https://setkhaing.carto.com/builder/7df8a2d8-52d3-4d27-a1c2-5f1bea2fbe31/embed) by Ko Set Khai Oo
-- [COVID-19 Control Decision Support Map](https://arcg.is/uDbuC?fbclid=IwAR3Htasi0zUraCM_XcplrmSSoETmD2PCefFz1Xkde7Hz6OQ1-orRUpzJL7g) - COVID-19 Control Decision Support Map By AGS Team
-- [COVID-19 Map](https://covid.mms-it.com/) by Ko Htet (MMS One Stop It Solutions)
-- [Migrant workers Interactive Map](https://public.tableau.com/profile/myanmar.geoinfomatic.society#!/vizhome/MigrantWorkersbyTownship/MainDashboard) - Migrant workers Interactive Dashboard by Ko Kyaw Naing Win
-- [Hospitals and Covid Patients Interactive Map](https://biglink.to/CV19InterMAP) - Hospitals and Covid Patients Interactive Map by Ko Wai Yan Min Khant
-
-
-## Chatbots
-- [Corona Help MM](https://www.messenger.com/t/CoronaHelpMM) - Corona Help Chatbot by Ko KaungThant Lwin, Ko Nay Lin Aung
-- [Dr.ThutaChatbot](https://www.facebook.com/Dr.ThutaChatbot/) - Dr.ThutaChatbot by Phandeeyar
-- [Corona Virus Chatbot](m.me/coronavirusalice)
-- [Covid-19 Updates For Myanmar](m.me/covid19updatesmm)
-
-## Web
-- [Myanmar Fight COVID-19](https://myanmarfightcovid19.com/) - Myanmar Fight COVID-19 Website by MyanmarFightCovid19 Team + UCSM ( Mandalay )
-- [Myanmar Covid-19](https://covid.devhouse.asia/) - Myanmar Covid-19 by Devhouse (Ko Myat Min Soe)
-- [Corona Help MM](https://coronahelpmm.org/) - Corona Help MM web app by [Volunteers](https://coronahelpmm.org/about)
-## Mobile Apps
-
-- [Myanmar Covid-19 Android App](https://devhouse.asia/covid19.apk) Myanmar Covid-19 Android App by Devhouse (Ko Myat Min Soe)
-
-- [COVID-19 Wuhan Counter](https://covid19.joymogok.com/apk/covidmm.apk) 
-Covid-19 Android App by JOY Mobile Mogok (Ko Nay Shein Oo)
-
-- [Corona Help MM Android App](https://coronahelpmm.org/app/CoronaHelpMM.apk) - Corona Help MM Android app by [Volunteers](https://coronahelpmm.org/about)## Dashboards
-- [MOHS Official Dashboard](https://doph.maps.arcgis.com/apps/opsdashboard/index.html#/f8fb4ccc3d2d42c7ab0590dbb3fc26b8) - Coronavirus Disease 2019 (COVID-19) Surveillance Dashboard (Myanmar)
-- [Covid-19 Dashboard](https://bit.ly/covidmyanmar) - Covid-19 Dashboard By Dr Nyein Chan Ko Ko
-- [Covid-19 Dashboard](https://www.myanmardatatada.com/covid-19-dashboard.html) - Covid-19 Dashboard by Phandeeyar (Datatada Program)
-- [Myanmar Surveillance Report](https://datastudio.google.com/u/0/reporting/01f1eab4-e77b-4742-93e8-fe5d334319ac/page/SenHB) - Myanmar Surveillance Report by Ko Kyaw Myint Oo
-
-## Maps
-- [Township and Facility Maps](https://bit.ly/2Jlunhk) - Township and Facility Maps by Ko Thet Aung
 - [Contact Tracing Map of the Positive Patients](https://bit.ly/3aOxsCE) - Contact Tracing Map of the Positive Patients by Ko Set Khai Oo
 - [COVID-19 Control Decision Support Map](https://arcg.is/uDbuC?fbclid=IwAR3Htasi0zUraCM_XcplrmSSoETmD2PCefFz1Xkde7Hz6OQ1-orRUpzJL7g) - COVID-19 Control Decision Support Map By AGS Team
 - [COVID-19 Map](https://covid.mms-it.com/) by Ko Htet (MMS One Stop It Solutions)
@@ -73,6 +40,7 @@ Covid-19 Android App by JOY Mobile Mogok (Ko Nay Shein Oo)
 - [Corona Help MM Android App](https://coronahelpmm.org/app/CoronaHelpMM.apk) - Corona Help MM Android app by [Volunteers](https://coronahelpmm.org/about)
 
 - [CSOVID-19 Application](http://www.nagmis.com/csovid19/apk/csovid19.apk)_- CSOVID-19 Application (include Statistics, symptoms, guidelines) (Network Activities Group) 
+
 ## API
 
 - [Covid 19 JOY Mobile Mogok](https://covid19.joymogok.com/) JOY Mobile - Mogok (Ko Nay Shein Oo)

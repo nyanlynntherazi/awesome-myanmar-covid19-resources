@@ -28,6 +28,7 @@ Email to nyanlynn.razi@gmail.com
 - [Migrant workers Interactive Map](https://public.tableau.com/profile/myanmar.geoinfomatic.society#!/vizhome/MigrantWorkersbyTownship/MainDashboard) - Migrant workers Interactive Dashboard by Ko Kyaw Naing Win
 
 - [Hospitals and Covid Patients Interactive Map](https://biglink.to/CV19InterMAP) - Hospitals and Covid Patients Interactive Map by Ko Wai Yan Min Khant
+- [MOHS Contact List Map](bit.ly/mohs_contact_map) - MOHS Contact List map by Maung Ne Lynn Aung
 
 ## Visualizations 
 
@@ -62,6 +63,8 @@ Covid-19 Android App by JOY Mobile Mogok (Ko Nay Shein Oo)
 
 - [CSOVID-19 Application](http://www.nagmis.com/csovid19/apk/csovid19.apk)_- CSOVID-19 Application (include Statistics, symptoms, guidelines) (Network Activities Group) 
 
+- [Covid-19 Myanmar Monitor Android App](https://bit.ly/covid-19-myanmar) - Covid-19 Myanmar Monitor Android App by Nicolas Bryne
+
 
 ## API
 
@@ -90,6 +93,12 @@ by Dr Nyein Chan Ko Ko and Volunteers
 
 - International Aids: [How are partners supporting Myanmar’s COVID-19 Response](https://medium.com/@leighmitchell/how-are-partners-supporting-myanmars-covid-19-response-cda866b6c74)
 
+- [Covid Response Clusters Contact List](https://bit.ly/covid_gen_contact) - Contact List of Covid Response Clusters including government committiees, CSO/CBOs, health clusters (Maung Ne Lynn Aung and Volunteers)
+
+- [MOHS Contact List Dataset](https://bit.ly/mohs_contact_list) - MOHS Contact List Dataset by Maung Ne Lynn Aung
+
+- [MOHS Contact List Dataset Excel and Json](http://ihubgroup.com/downloads/covid19/20200404_MoHS_Contact_List/) - MOHS Contact List Dataset by Maung Ne Lynn Aung
+
 ## Fact File
 
 - Real or Not's [Covid-19 Fact File](https://www.realornotmm.info/2020/01/27/coronavirus_covid-19_fact-file/)
@@ -100,7 +109,6 @@ by Dr Nyein Chan Ko Ko and Volunteers
 
 - [COVID-19 Crowdtangle Board of the Official Facebook Pages](https://apps.crowdtangle.com/myanmarcovid19/boards/myanmarcovid-19?fbclid=IwAR1pVPeyBtqVW5p2DWAXR8mSgt00Dj_9uiDTX7hsO6cnMY89--GXdBrkdPo) - Crowdtangle Board of the Official government, media and factchecking Facebook Pages including MoHS, CDC, MoFA, Myanmar Times, Irrawaddy, Think Before You Trust etc,.(Victoire Rio and Nyein Chan Ko Ko)
 
-- [Covid Response Clusters Contact List](https://docs.google.com/spreadsheets/d/1UmXfnox_8M11QBIKuReZlKnN1ppI9bWsYc1RLXNM7jg/edit#gid=698450723) - Contact List of Covid Response Clusters including government committiees, CSO/CBOs, health clusters (Maung Ne Lynn Aung and Volunteers)
 
 ## Community Groups
 

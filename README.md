@@ -63,7 +63,7 @@ Covid-19 Android App by JOY Mobile Mogok (Ko Nay Shein Oo)
 
 - [CSOVID-19 Application](http://www.nagmis.com/csovid19/apk/csovid19.apk)_- CSOVID-19 Application (include Statistics, symptoms, guidelines) (Network Activities Group) 
 
-- [Covid-19 Myanmar Monitor Android App](https://bit.ly/covid-19-myanmar) - Covid-19 Myanmar Monitor Android App by Nicolas Bryne
+- [Covid-19 Myanmar Monitor Android App](https://covid-19.peersdrive.com/covid-19-myanmar.apk) - Covid-19 Myanmar Monitor Android App by Nicolas Bryne
 
 
 ## API

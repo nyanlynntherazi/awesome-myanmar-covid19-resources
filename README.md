@@ -25,14 +25,21 @@ Email to nyanlynn.razi@gmail.com
 
 - [COVID-19 Map](https://covid.mms-it.com/) by Ko Htet (MMS One Stop It Solutions)
 
-- [Migrant workers Interactive Map](https://public.tableau.com/profile/myanmar.geoinfomatic.society#!/vizhome/MigrantWorkersbyTownship/MainDashboard) - Migrant workers Interactive Dashboard by Myanmar Geoifnormatic Society Facebook Group
+- [Migrant workers Interactive Map (https://public.tableau.com/profile/myanmar.geoinfomatic.society#!/vizhome/MigrantWorkersbyTownship/MainDashboard) by Myanmar Geoifnormatic Society Facebook Group
 
 - [Hospitals and Covid Patients Interactive Map](https://biglink.to/CV19InterMAP) - Hospitals and Covid Patients Interactive Map by Ko Wai Yan Min Khant
+
 - [MOHS Contact List Map](bit.ly/mohs_contact_map) - MOHS Contact List map by Maung Ne Lynn Aung
+
+- [Postive Cases Cluster Map](https://mmcovid.glitch.me/) by Han Min Sein
 
 ## Visualizations 
 
 - [Covid-19 Patient Relations Visualization](https://phyokyi.github.io/covid-19/COVID-19%20Relations.html) - Covid-19 Patient Relations Visualization by Ko Phyo Kyi
+
+- [Covid Cases Mapping](https://kumu.io/3XVIVR/covid-cases-mapping) by 3XVIVR (Ko Nyi Lynn Seck)
+
+- [Covid-19 Myanmar Cases](https://kumu.io/datadoctor/covid) by Ko Nyein Chan Ko Ko
 
 ## Chatbots
 

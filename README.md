@@ -41,6 +41,8 @@ Email to nyanlynn.razi@gmail.com
 
 - [Covid-19 Myanmar Cases](https://kumu.io/datadoctor/covid) by Ko Nyein Chan Ko Ko
 
+- [Myanmar Covid-19 Case Report](https://public.tableau.com/profile/ak.hlaing?fbclid=IwAR3X9-lJPA5TOaz9nkHKNG9C0_48jb33VpoGuQ5zib4HIcxJ-giE6OURkbc#!/vizhome/MyanmarCovid19casereports/ViwebyTown) Myanmar Covid-19 Case Report by Ko AK Hlaing
+
 ## Chatbots
 
 - [Corona Help MM](https://www.messenger.com/t/CoronaHelpMM) - Corona Help Chatbot by Ko KaungThant Lwin, Ko Nay Lin Aung

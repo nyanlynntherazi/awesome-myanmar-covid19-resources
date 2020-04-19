@@ -63,6 +63,8 @@ Email to nyanlynn.razi@gmail.com
 
 - [COVID-19 Data for Myanmar](https://covid19mm.thibi.co/) by [Thibi](https://thibi.co/)
 
+- [Covid Myanmar](https://covid19.ttkz.me/) by Ko [Thant Thet](https://github.com/thantthet)
+
 ## Mobile Apps
 
 - [Myanmar Covid-19 Android App](https://devhouse.asia/covid19.apk) Myanmar Covid-19 Android App by Devhouse (Ko Myat Min Soe)
@@ -86,6 +88,8 @@ Covid-19 Android App by JOY Mobile Mogok (Ko Nay Shein Oo)
 - [Care Together Mobile App](https://www.facebook.com/CareTogetherMyanmar/) - Care Together Mobile App by Za Information Technology
 
 - [Saw Saw Pyaw Mobile App](http://sawsawpyaw.com/) - Self Quarantine Platform by Technmation Studios
+
+- [Saw Saw Shar Mobile App](https://www.sawsawshar.gov.mm/#/sawsawshar) - by MCF
 
 ## Folding@home
 

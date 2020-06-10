@@ -149,6 +149,8 @@ by Dr Nyein Chan Ko Ko and Volunteers
 - [Myanmar Now](https://myanmar-now.org/mm/covid-19)
 
 - [The Irrawaddy](https://burma.irrawaddy.com/tag/%e1%80%80%e1%80%ad%e1%80%af%e1%80%9b%e1%80%ad%e1%80%af%e1%80%94%e1%80%ac%e1%80%97%e1%80%ad%e1%80%af%e1%80%84%e1%80%ba%e1%80%b8%e1%80%9b%e1%80%95%e1%80%ba%e1%80%85%e1%80%ba)
+- [DVB]
+(http://burmese.dvb.no/archives/368575  )
 
 - [Health Products](https://www.healthproducts.com.mm/wuhan-virus.html)
 

@@ -31,7 +31,9 @@ Email to nyanlynn.razi@gmail.com
 
 - [MOHS Contact List Map](bit.ly/mohs_contact_map) - MOHS Contact List map by Maung Ne Lynn Aung
 
-- [Postive Cases Cluster Map](https://mmcovid.glitch.me/) by Han Min Sein
+- [Postive Cases Cluster Map iOS](https://mmcovid.glitch.me/) by Han Min Sein
+
+- [Postive Cases Cluster Map Android] (http://mmcovid19.glitch.me/) by Han Min Sein
 
 ## Visualizations 
 

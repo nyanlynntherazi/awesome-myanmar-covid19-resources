@@ -17,7 +17,7 @@ Email to nyanlynn.razi@gmail.com
 
 ## Maps
 
-- [Township and Facility Maps](https://bit.ly/2Jlunhk) - Township and Facility Maps by Ko Thet Aung
+- [Township and Facility Maps](https://bit.ly/2Jlunhk)] - Township and Facility Maps by Ko Thet Aung
 
 - [Contact Tracing Map of the Positive Patients](https://bit.ly/3aOxsCE) - Contact Tracing Map of the Positive Patients by Ko Set Khai Oo
 

@@ -25,7 +25,7 @@ Email to nyanlynn.razi@gmail.com
 
 - [COVID-19 Map](https://covid.mms-it.com/) by Ko Htet (MMS One Stop It Solutions)
 
-- [Migrant workers Interactive Map (https://public.tableau.com/profile/myanmar.geoinfomatic.society#!/vizhome/MigrantWorkersbyTownship/MainDashboard) by Myanmar Geoifnormatic Society Facebook Group
+- [Migrant workers Interactive Map](https://public.tableau.com/profile/myanmar.geoinfomatic.society#!/vizhome/MigrantWorkersbyTownship/MainDashboard) - by Myanmar Geoifnormatic Society Facebook Group
 
 - [Hospitals and Covid Patients Interactive Map](https://biglink.to/CV19InterMAP) - Hospitals and Covid Patients Interactive Map by Ko Wai Yan Min Khant
 
